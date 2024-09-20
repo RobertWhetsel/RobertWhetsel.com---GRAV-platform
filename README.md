@@ -3,4 +3,4 @@
 
 
 TODO
-1.	delete unnecessary folders & files
+1.	Intergrate with flexnet-gx.
